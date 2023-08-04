@@ -1,0 +1,8 @@
+01 -Create HTML Structure => DONE
+02 - Add Dumy Data => DONE
+03 - Styling The HTML Structure => DONE
+04 - Add Images And Links => DONE
+05 - Add Select Box Javascript To Make Website Dynamically => IN PROGRESS
+06 - Add HTML Sections
+07 - Add Footer And Copyright
+08 - Finalyzing APP
